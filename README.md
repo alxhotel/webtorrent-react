@@ -2,7 +2,7 @@
 
 Basic example of Webtorrent with React.
 
-## Run it
+## Run
 
 ```sh
 npm start  
